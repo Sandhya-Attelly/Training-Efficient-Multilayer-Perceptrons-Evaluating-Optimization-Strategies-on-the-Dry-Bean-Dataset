@@ -24,7 +24,7 @@ The Dry Bean Dataset contains:
 - *7 bean classes*
 
 ## Repository Contents
-- MLNW.ipynb – Jupyter notebook containing all experiments and visualisations
+- MLNW(1).ipynb – Jupyter notebook containing all experiments and visualisations
 - Dry_Bean_Dataset.xlsx - dataset
 - requirements.txt – required Python packages
 - LICENSE – project licence
