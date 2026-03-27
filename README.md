@@ -1,0 +1,30 @@
+# Training Efficient Multilayer Perceptrons on the Dry Bean Dataset
+
+## Overview
+This repository contains the code and tutorial materials for a machine learning tutorial exploring how optimisation strategies affect the performance of a Multilayer Perceptron (MLP).
+
+The experiments focus on:
+- *Learning Rate*
+- *Optimizer Choice*
+- *Dropout Regularization*
+
+The project uses the *Dry Bean Dataset* from the UCI Machine Learning Repository.
+
+## Project Objective
+The objective of this project is to investigate how key optimisation choices influence:
+- convergence speed,
+- training stability,
+- overfitting,
+- and generalization performance.
+
+## Dataset
+The Dry Bean Dataset contains:
+- *13,611 samples*
+- *16 numerical features*
+- *7 bean classes*
+
+## Repository Contents
+- MLNW.ipynb – Jupyter notebook containing all experiments and visualisations
+- Dry_Bean_Dataset.xlsx - dataset
+- requirements.txt – required Python packages
+- LICENSE – project licence
