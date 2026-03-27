@@ -29,7 +29,3 @@ The Dry Bean Dataset contains:
 - requirements.txt – required Python packages
 - LICENSE – project licence
 
-## How to Run
-
-### 1. Clone the repository
-```bash
