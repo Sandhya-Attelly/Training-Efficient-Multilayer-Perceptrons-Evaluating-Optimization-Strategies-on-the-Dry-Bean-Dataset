@@ -25,7 +25,7 @@ The Dry Bean Dataset contains:
 
 ## Repository Contents
 - MLNW.ipynb – Jupyter notebook containing all experiments and visualisations
--  -dataset
+- Dry_Bean_Dataset.xlsx -dataset
 - requirements.txt – required Python packages
 - LICENSE – project licence
 
