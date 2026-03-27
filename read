@@ -24,9 +24,8 @@ The Dry Bean Dataset contains:
 - *7 bean classes*
 
 ## Repository Contents
-- mlp_drybean_optimization_tutorial.ipynb – Jupyter notebook containing all experiments and visualisations
-- tutorial.pdf – final tutorial submission
-- figures/ – exported figures used in the tutorial
+- MLNW.ipynb – Jupyter notebook containing all experiments and visualisations
+-  -dataset
 - requirements.txt – required Python packages
 - LICENSE – project licence
 
