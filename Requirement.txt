@@ -1,0 +1,12 @@
+---
+
+# 5) REQUIREMENTS.TXT
+
+```txt
+numpy
+pandas
+matplotlib
+tensorflow
+scikit-learn
+openpyxl
+jupyter
